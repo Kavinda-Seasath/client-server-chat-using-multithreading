@@ -3,6 +3,7 @@
 
 - This Project is a real-time client-server chat using java Multithreading :stuck_out_tongue:
 - *** This application has multi client support and can send multiple messages from one party to another without waiting for any response.***
+- NOTE THAT THIS IS A MAVEN PROJECT
 
 - How to use:
 
