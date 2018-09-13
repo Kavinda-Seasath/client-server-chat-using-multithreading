@@ -1,11 +1,12 @@
 # client-server-chat-using-multithreading
-#JAVA
-This Project is a real-time client-server chat using java Multithreading
-*** This application has multi client support and can send multiple messages from one party to another without waiting for any response.***
+- JAVA 
 
-How to use:
+- This Project is a real-time client-server chat using java Multithreading
+- *** This application has multi client support and can send multiple messages from one party to another without waiting for any response.***
 
-[X] use ChatWithThreads folder
-[X] Run chatServer java class
-[X] Run chatClient java class next
+-How to use:
+
+- [X] use ChatWithThreads folder
+- [X] Run chatServer java class
+- [X] Run chatClient java class next
 
