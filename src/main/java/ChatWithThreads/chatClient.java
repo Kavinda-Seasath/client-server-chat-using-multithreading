@@ -23,7 +23,7 @@ public class chatClient {
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
             PrintWriter out = new PrintWriter(clientSocket.getOutputStream());
 
-            Scanner scanner = new Scanner(System.in);
+            //Scanner scanner = new Scanner(System.in);
 
             clientBufferReader readServerinput = new clientBufferReader(clientSocket,in);
             readServerinput.start();
