@@ -26,7 +26,7 @@ public class chatServer
                 s2.start();
             }catch (Exception e) {
                 socket.close();
-                System.out.println("exception occurred on server");
+                System.out.println("exception on server");
                 e.printStackTrace();
             }
         }
